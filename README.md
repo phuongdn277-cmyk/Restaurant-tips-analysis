@@ -55,7 +55,43 @@ Analyze differences in:
 
 **General conclusion:** Smokers Group tend to tip more than Non-smokers group
 
-### Tip Distribution by Smoking Status
+**<p align="center">Tip Distribution by Smoking Status**
+
 ![Tip Distribution by Smoking Status](images/tip_distribution.png)
+
+**Insights based on distribution comparison:**
+1. The joint distribution of the Smoker tip value is strongly right-skewed
+2. Sudden appearance of high tip values (6–10) => Average of Smokers group is the highest
+3. In the Non-smoker group, most tips are in the range of 1 - 4
+
+
+**General conclusion:** The tip distribution is right-skewed across all groups. Smokers show a wider spread and more extreme high tip values
+
+## Male vs. Female customer
+|        |     male |   female |
+|:-------|---------:|---------:|
+| min    |  1       |  1       |
+| max    | 10       |  6.5     |
+| mean   |  3.08962 |  2.83345 |
+| median |  3       |  2.75    |
+### Insights based on measures of central tendency comparison:
+1. Min of all groups is 1
+2. Max of male (10) > female (6.5), there is a large difference between the two maximum values.
+3. Average of male group is higher than average of female group
+4. Median male group is higher than average of female group
+
+
+**General conclusion:** Male tend to tip value slightly higher than female.
+
+**<p align="center">Tip Distribution by Gender Status**
+
+![Tip Distribution by Smoking Status](images/tip_distribution1.png)
+
+**Insights based on distribution comparison:**
+1. Male Group: The joint distribution of tip value is strongly right-skewed, many tip values >5 and outliers appear
+2. Female Group: The joint distribution of tip value is slightly right-skewed, most tip value are in the range of 1 – 4
+
+**General conclusion:** Male tend to tip higher in special cases Female tip more consistently
+
 
 
