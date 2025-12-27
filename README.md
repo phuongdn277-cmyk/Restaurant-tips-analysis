@@ -54,5 +54,6 @@ Analyze differences in:
 4. Median of Smokers group is the highest,the distribution of Non-smokers is skewed towards lower values
 
 **General conclusion:** Smokers Group tend to tip more than Non-smokers group
+![Tip Distribution by Smoking Status](images/tip_distribution.png)
 
 
